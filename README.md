@@ -288,7 +288,7 @@ I recommend starting by copying/pasting the following code into your hugo.toml f
 
 ```toml
 baseURL = "/"
-languageCode = "en-gb"
+locale = "en-gb"
 theme = "elixir"
 pagination.pagerSize = 10
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
